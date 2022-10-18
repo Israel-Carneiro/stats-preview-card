@@ -1,0 +1,72 @@
+:root {
+    --main-background: hsl(233, 47%, 7%);
+    --card-background: hsl(244, 38%, 16%);
+    --accent: hsl(277, 64%, 61%);
+    --white1: hsl(0, 0%, 100%);
+    --white2: hsla(0, 0%, 100%, 0.75);
+    --white3: hsla(0, 0%, 100%, 0.6);
+
+    --inter: 'Inter';
+    --lexend-deca: 'Lexend Deca';
+}
+
+body {
+    background-color: hsl(244, 38%, 16%);
+    margin: 6rem 1.25rem 0 1.25rem;
+}
+
+.cabecalho__foto {
+    filter: opacity(0.4), drop-shadow();
+    border-radius: 7px 7px 0 0;
+    width: 100%;
+}
+
+main {
+    margin-bottom: 6rem;
+    border-radius: 7px;
+    text-align: center;
+    background-color: hsl(244, 43%, 25%);
+}
+
+h1 {
+    padding: 2.5rem 2rem 1rem 2rem;
+    font-family: var(--inter);
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: hsl(0, 0%, 100%);
+}
+
+.insights {
+    color: var(--accent);
+}
+
+.texto {
+    line-height: 25px;
+    padding: 0 2rem 3rem 2rem;
+    font-family: var(--inter);
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--white2);
+}
+
+h2 {
+    font-family: var(--inter);
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--white1);
+}
+
+.status {
+    padding: .5rem 0 2rem 0;
+    font-family: var(--lexend-deca);
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--white3);
+    text-transform: uppercase;
+}
+
+.attribution {
+    padding-bottom: .5rem;
+    font-size: 11px; text-align: center;
+    color: hsl(228, 45%, 44%);
+}
