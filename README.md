@@ -19,7 +19,7 @@ There I can have the images, texts, colors used and letter fonts to work with, a
 Her you can see an preview from this project seen by a desktop screen, wicth meens it's a 1440px plus screen width:
 
 <div align="center">
-  <img width=50% src="./images/desktop-preview.jpg" alt="Desktop view of this project">
+  <img width=50% src="./images/desktop-design.jpg" alt="Desktop view of this project">
 </div>
 
 And this is a preview from a mobile screen (less than 1440px screen width):
