@@ -13,10 +13,10 @@ My desire is to handle more and bigger projects as this one. So, i'll appreciate
 
 ## Project Designe
 
-I decide to built an Status Preview Card, wicth is an challenge from > https://www.frontendmentor.io/ <br>
-There I can have the images, texts, colors used and letter fonts to work with, and they ask me to do all this design by my self, just like it's show up.
+I decide to built a Status Preview Card, which is a challenge from > https://www.frontendmentor.io/ <br>
+There I can have images, texts, colors used and letter fonts to work with, and they ask me to do all this design by my self, just like it's show up.
 
-Her you can see an preview from this project seen by a desktop screen, wicth meens it's a 1440px plus screen width:
+Here you can see a preview from this project seen by a desktop screen, which meens it's a 1440px plus screen width:
 
 <div align="center">
   <img width=50% src="./images/desktop-design.jpg" alt="Desktop view of this project">
