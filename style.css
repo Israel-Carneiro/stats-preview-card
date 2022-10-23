@@ -16,9 +16,14 @@ body {
     margin: 6rem 1.25rem 6rem 1.25rem;
 }
 
-.cabecalho__foto--mobile {
-    filter: opacity(0.3) drop-shadow(rgb(176, 48, 179) 0px 0px 0px); 
+header {
+    background-color: var(--accent);
     border-radius: 8px 8px 0 0;
+}
+
+.cabecalho__foto--mobile {
+    mix-blend-mode: multiply;
+    opacity: 80%;
     width: 100%;
     margin-bottom: -.15rem;
 }
@@ -118,9 +123,14 @@ h2 {
         padding: 0;
     }
 
+    .foto {
+        background-color: var(--accent);
+        border-radius: 0 8px 8px 0;
+    }
+
     .cabecalho__foto--desktop {
         display: block;
-        filter: opacity(0.3) drop-shadow(rgb(176, 48, 179) 0px 0px 0px); 
-        border-radius: 0 8px 8px 0;
+        mix-blend-mode: multiply;
+        opacity: 80%;
     }
 }
