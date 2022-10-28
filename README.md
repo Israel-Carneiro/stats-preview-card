@@ -13,7 +13,7 @@ My desire is to handle more and bigger projects as this one. So, i'll appreciate
 
 ## Project Designe
 
-I decide to built a Status Preview Card, which is a challenge from > https://www.frontendmentor.io/ <br>
+I decided to build a Status Preview Card, which is a challenge from > https://www.frontendmentor.io/ <br>
 There I can have images, texts, colors used and letter fonts to work with, and they ask me to do all this design by my self, just like it's show up.
 
 Here you can see a preview from this project seen by a desktop screen, which meens it's a 1440px plus screen width:
