@@ -4,7 +4,7 @@
 
 Thanks for checking out my front-end project.
 
-I am constantly improve my HTML and CSS skills to do more like this.
+I am constantly improve my HTML and CSS skills to do more projects like this.
 
 ## The Project Meaning
 
