@@ -35,3 +35,8 @@ And this is a preview from a mobile screen (less than 1440px screen width):
 >Thirth, putting things in place. And for that, it was necessary to know what exactly display I need for each text and image.<br>
 >Fourth, adding some editions of the image, fonts, text sizes and other details.<br>
 >Fifth and the last, create the responsive design for desktops screen, after the mobile screen design was already.
+
+## Reference
+* This is a challenge proposed by Front End Mentor.
+* Front End Mentor only offers a sample of the expected result and the material to achieve it.
+* There are no instructions or tips on how to perform the challenge, leaving any and all decisions up to the person who performs it.
