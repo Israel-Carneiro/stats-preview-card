@@ -40,3 +40,13 @@ And this is a preview from a mobile screen (less than 1440px screen width):
 * This is a challenge proposed by Front End Mentor.
 * Front End Mentor only offers a sample of the expected result and the material to achieve it.
 * There are no instructions or tips on how to perform the challenge, leaving any and all decisions up to the person who performs it.
+
+## Autor
+
+### Israel Carneiro de Oliveira
+ 
+<table border: none;" border="0" cellpadding="0">
+ <td>
+  <img width="200px" src="https://avatars.githubusercontent.com/u/113190387?s=400&u=3c497e66670ff827854b02bfd769529a19c9b5b1&v=4" rel="foto Israel Carneiro" />
+ </td>
+</table>
